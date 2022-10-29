@@ -23,8 +23,11 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🏆HoloPin Badges
+[![@suraj53028's Holopin board](https://holopin.me/suraj53028)](https://holopin.io/@suraj53028)
+
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://dynamic-badges.maxalpha.repl.co/meme" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=biswa1751&icon=0&color=3)](https://visitcount.itsvg.in)
@@ -33,4 +36,5 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BiswajitBeheraIN ) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
   
