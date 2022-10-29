@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # 💫About Me :
- - 🔭 I’m currently working on [Cookytech](https://cookytech.in/).
+ - 🔭 I’m currently working on [HighLevel](https://www.gohighlevel.com/).
  - 🌱 I’m currently learning UI/UX.
- - 💬 Ask me about Flutter.
+ - 💬 Ask me about Flutter , Firebase and Strapi.
  - 😄 Pronouns: He/His.
  - ⚡ Fun fact: Songs give me energy to code.
 
